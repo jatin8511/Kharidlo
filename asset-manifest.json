@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/jatin8511/Kharidlo/static/css/main.25e36bb3.css",
+    "main.js": "/jatin8511/Kharidlo/static/js/main.25fb4c86.js",
+    "static/js/787.48ae8a3b.chunk.js": "/jatin8511/Kharidlo/static/js/787.48ae8a3b.chunk.js",
+    "static/media/KharidLoVid1.mp4": "/jatin8511/Kharidlo/static/media/KharidLoVid1.2e29a565e05601546080.mp4",
+    "static/media/KharidLoVid2.mp4": "/jatin8511/Kharidlo/static/media/KharidLoVid2.0e5f1c340d4bc0b70c5c.mp4",
+    "static/media/categoryShoe.jpg": "/jatin8511/Kharidlo/static/media/categoryShoe.be4e3c9bcf0e3f740492.jpg",
+    "static/media/logo.svg": "/jatin8511/Kharidlo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jatin8511/Kharidlo/index.html",
+    "main.25e36bb3.css.map": "/jatin8511/Kharidlo/static/css/main.25e36bb3.css.map",
+    "main.25fb4c86.js.map": "/jatin8511/Kharidlo/static/js/main.25fb4c86.js.map",
+    "787.48ae8a3b.chunk.js.map": "/jatin8511/Kharidlo/static/js/787.48ae8a3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25e36bb3.css",
+    "static/js/main.25fb4c86.js"
+  ]
+}
